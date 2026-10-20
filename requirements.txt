@@ -1,0 +1,14 @@
+# Python 3.10; versions of the environment in which the results were computed
+torch==2.5.1
+torch-geometric==2.7.0
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.2
+scikit-learn==1.7.2
+matplotlib==3.10.6
+geopandas==1.1.1
+shapely==2.1.2
+pyproj==3.5.0
+rasterio==1.4.3
+netCDF4==1.7.4
+openpyxl==3.1.5

@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pt
+*.pth
+*.nc
+*.tif
+*.csv.gz
+soil_gnn/results/
+ARTICLE_GNN/
+MODIS_Turkiye/
+DATASET/*.csv
+!DATASET/MGM_istasyonlar_final.csv
+DATASET/DEM/
+data_preparation/**/*.csv
+data_preparation/smap_data/
+soil_gnn/analysis/geometry_coverage/
